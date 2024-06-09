@@ -4,7 +4,6 @@ This project was made for one subject of the Information System's course from UF
 It is a Web Crawler, made using Puppeter, that will collect information about many cryptocurrencies from 3 main websites:
 
 - [Coinmarketcap](https://coinmarketcap.com/pt-br/)
-
 - [Coingecko](https://www.coingecko.com/pt)
 - [Cryptocompare](https://www.cryptocompare.com/)
 
