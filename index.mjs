@@ -1,14 +1,13 @@
 import puppeteer from "puppeteer";
-import { extractFromCoingecko } from "./coingecko.mjs";
+import { extractFromCryptocompare } from "./crawlers/cryptocompare.mjs";
 
 // ========== MAIN FUNCTION ============
 const main = async () => {
   const browser = await puppeteer.launch({ headless: false });
 
-  await extractFromCoingecko(browser);
-
-  // TO DO
-  // Create a function for each website and get the data
+  // await extractFromCoingecko(browser);
+  // await extractFromCoinmarketcap(browser);
+  await extractFromCryptocompare(browser);
 
   await browser.close();
 };

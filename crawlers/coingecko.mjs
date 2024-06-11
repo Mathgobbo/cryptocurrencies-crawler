@@ -1,5 +1,5 @@
-import { COINGECKO_URL } from "./constants.mjs";
-import { sleep, writeJsonToFile } from "./utils.mjs";
+import { COINGECKO_URL } from "../constants.mjs";
+import { sleep, writeJsonToFile } from "../utils.mjs";
 
 export const extractFromCoingecko = async (browser) => {
   // Timer start
@@ -27,7 +27,7 @@ export const extractFromCoingecko = async (browser) => {
     });
 
     // Save links in an external array
-    savedLinks.push(...links);
+    savedLinks.push(links[0]);
 
     const nextPageSelector = `div div nav span a ::-p-text(${
       tokensTablePage + 1
