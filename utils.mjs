@@ -11,9 +11,9 @@ export const sleep = async (ms = 1000) => {
 export const writeJsonToFile = async (data, filename) => {
   await writeFile("./datasets/" + filename, JSON.stringify(data), (err) => {
     if (err) {
-      console.error("Erro ao escrever no arquivo:", err);
+      console.error("Error on write:", err);
       return;
     }
-    console.log("Os dados foram escritos no arquivo com sucesso!");
+    console.log("Success!");
   });
 };
