@@ -5,7 +5,7 @@ It is a Web Crawler, made using Puppeter, that will collect information about ma
 
 - [Coinmarketcap](https://coinmarketcap.com/pt-br/)
 - [Coingecko](https://www.coingecko.com/pt)
-- [Cryptocompare](https://www.cryptocompare.com/)
+- [Crypto.com](https://crypto.com/)
 
 We are extracting the **Price, 24h Volume, Market Cap, Total Supply and Website**
 
