@@ -1,10 +1,802 @@
 [
   {
-    "price": "$68,403.14",
-    "volume": "$24,846,633,759",
-    "marketCap": "$1,349,094,037,576",
-    "totalSupply": "19,710,653 BTC",
+    "price": "$67,304.76",
+    "volume": "$37,091,373,604",
+    "marketCap": "$1,328,349,454,230",
+    "totalSupply": "19,711,006 BTC",
     "website": "https://bitcoin.org/",
     "link": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  {
+    "price": "$3,499.92",
+    "volume": "$19,157,746,830",
+    "marketCap": "$420,922,447,349",
+    "totalSupply": "120,155,705 ETH",
+    "website": "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "link": "https://coinmarketcap.com/currencies/ethereum/"
+  },
+  {
+    "price": "$0.9999",
+    "volume": "$72,325,456,440",
+    "marketCap": "$112,486,903,499",
+    "totalSupply": "115,086,088,089 USDT",
+    "website": "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "link": "https://coinmarketcap.com/currencies/tether/"
+  },
+  {
+    "price": "$604.43",
+    "volume": "$2,580,495,009",
+    "marketCap": "$89,204,752,215",
+    "totalSupply": "147,584,408 BNB",
+    "website": "https://bnbchain.org/en",
+    "link": "https://coinmarketcap.com/currencies/bnb/"
+  },
+  {
+    "price": "$149.49",
+    "volume": "$2,811,895,210",
+    "marketCap": "$68,906,066,770",
+    "totalSupply": "577,855,946 SOL",
+    "website": "https://solana.com/",
+    "link": "https://coinmarketcap.com/currencies/solana/"
+  },
+  {
+    "price": "$0.9999",
+    "volume": "$6,715,313,924",
+    "marketCap": "$32,131,651,330",
+    "totalSupply": "32,132,026,893 USDC",
+    "website": "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "link": "https://coinmarketcap.com/currencies/usd-coin/"
+  },
+  {
+    "price": "$0.4809",
+    "volume": "$1,514,074,120",
+    "marketCap": "$26,691,310,605",
+    "totalSupply": "99,987,553,871 XRP",
+    "website": "https://bscscan.com/token/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+    "link": "https://coinmarketcap.com/currencies/xrp/"
+  },
+  {
+    "price": "$0.138",
+    "volume": "$1,274,945,102",
+    "marketCap": "$19,957,911,143",
+    "totalSupply": "144,670,826,384 DOGE",
+    "website": "https://bscscan.com/token/0xba2ae424d960c26247dd6c32edc70b295c744c43",
+    "link": "https://coinmarketcap.com/currencies/dogecoin/"
+  },
+  {
+    "price": "$6.95",
+    "volume": "$277,094,412",
+    "marketCap": "$16,908,350,510",
+    "totalSupply": "5,107,470,251 TON",
+    "website": "https://etherscan.io/token/0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+    "link": "https://coinmarketcap.com/currencies/toncoin/"
+  },
+  {
+    "price": "$0.4224",
+    "volume": "$600,595,939",
+    "marketCap": "$15,087,465,782",
+    "totalSupply": "36,952,989,919 ADA",
+    "website": "https://bscscan.com/token/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+    "link": "https://coinmarketcap.com/currencies/cardano/"
+  },
+  {
+    "price": "$0.00002163",
+    "volume": "$830,624,958",
+    "marketCap": "$12,745,856,635",
+    "totalSupply": "589,519,941,093,491 SHIB",
+    "website": "https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "link": "https://coinmarketcap.com/currencies/shiba-inu/"
+  },
+  {
+    "price": "$31.55",
+    "volume": "$432,164,534",
+    "marketCap": "$12,409,206,979",
+    "totalSupply": "442,617,571 AVAX",
+    "website": "https://avascan.info/blockchain/x/asset/FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+    "link": "https://coinmarketcap.com/currencies/avalanche/"
+  },
+  {
+    "price": "$0.1167",
+    "volume": "$369,334,090",
+    "marketCap": "$10,192,327,154",
+    "totalSupply": "87,306,599,195 TRX",
+    "website": "https://etherscan.io/token/0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+    "link": "https://coinmarketcap.com/currencies/tron/"
+  },
+  {
+    "price": "$6.39",
+    "volume": "$289,144,337",
+    "marketCap": "$9,188,572,606",
+    "totalSupply": "1,437,953,431 DOT",
+    "website": "https://bscscan.com/token/0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+    "link": "https://coinmarketcap.com/currencies/polkadot-new/"
+  },
+  {
+    "price": "$15.04",
+    "volume": "$459,067,053",
+    "marketCap": "$8,830,498,078",
+    "totalSupply": "1,000,000,000 LINK",
+    "website": "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+    "link": "https://coinmarketcap.com/currencies/chainlink/"
+  },
+  {
+    "price": "$446.89",
+    "volume": "$372,312,142",
+    "marketCap": "$8,811,818,707",
+    "totalSupply": "19,718,119 BCH",
+    "website": "https://hecoinfo.com/token/0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+    "link": "https://coinmarketcap.com/currencies/bitcoin-cash/"
+  },
+  {
+    "price": "$6.08",
+    "volume": "$351,956,878",
+    "marketCap": "$6,594,723,117",
+    "totalSupply": "1,195,123,666 NEAR",
+    "website": "https://near.org/",
+    "link": "https://coinmarketcap.com/currencies/near-protocol/"
+  },
+  {
+    "price": "$0.6192",
+    "volume": "$438,317,389",
+    "marketCap": "$6,128,040,707",
+    "totalSupply": "10,000,000,000 MATIC",
+    "website": "https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "link": "https://coinmarketcap.com/currencies/polygon/"
+  },
+  {
+    "price": "$77.30",
+    "volume": "$567,875,879",
+    "marketCap": "$5,769,363,425",
+    "totalSupply": "84,000,000 LTC",
+    "website": "https://hecoinfo.com/token/0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+    "link": "https://coinmarketcap.com/currencies/litecoin/"
+  },
+  {
+    "price": "$5.92",
+    "volume": "$2,799,529",
+    "marketCap": "$5,478,770,259",
+    "totalSupply": "985,239,504 LEO",
+    "website": "https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "link": "https://coinmarketcap.com/currencies/unus-sed-leo/"
+  },
+  {
+    "price": "$0.00001279",
+    "volume": "$1,304,808,098",
+    "marketCap": "$5,381,226,760",
+    "totalSupply": "420,689,899,999,995 PEPE",
+    "website": "https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "link": "https://coinmarketcap.com/currencies/pepe/"
+  },
+  {
+    "price": "$8.98",
+    "volume": "$327,889,871",
+    "marketCap": "$5,387,715,481",
+    "totalSupply": "1.03575981",
+    "website": "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "link": "https://coinmarketcap.com/currencies/uniswap/"
+  },
+  {
+    "price": "$1.00",
+    "volume": "$281,219,032",
+    "marketCap": "$5,348,322,312",
+    "totalSupply": "5,347,888,596 DAI",
+    "website": "https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+    "link": "https://coinmarketcap.com/currencies/multi-collateral-dai/"
+  },
+  {
+    "price": "$10.08",
+    "volume": "$172,747,664",
+    "marketCap": "$4,684,784,608",
+    "totalSupply": "519,224,074 ICP",
+    "website": null,
+    "link": "https://coinmarketcap.com/currencies/internet-computer/"
+  },
+  {
+    "price": "$0.1636",
+    "volume": "$80,262,636",
+    "marketCap": "$3,908,747,356",
+    "totalSupply": "23,897,817,958 KAS",
+    "website": "https://www.kaspa.org/",
+    "link": "https://coinmarketcap.com/currencies/kaspa/"
+  },
+  {
+    "price": "$25.74",
+    "volume": "$247,417,582",
+    "marketCap": "$3,795,720,723",
+    "totalSupply": "210,700,000 ETC",
+    "website": "https://bscscan.com/token/0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+    "link": "https://coinmarketcap.com/currencies/ethereum-classic/"
+  },
+  {
+    "price": "$7.98",
+    "volume": "$285,910,104",
+    "marketCap": "$3,497,974,960",
+    "totalSupply": "1,100,422,839 APT",
+    "website": "https://tracemove.io/coin/0x1::aptos_coin::AptosCoin",
+    "link": "https://coinmarketcap.com/currencies/aptos/"
+  },
+  {
+    "price": "$176.17",
+    "volume": "$112,193,492",
+    "marketCap": "$3,249,734,637",
+    "totalSupply": "18,446,744 XMR",
+    "website": "https://www.getmonero.org/",
+    "link": "https://coinmarketcap.com/currencies/monero/"
+  },
+  {
+    "price": "$2.19",
+    "volume": "$170,772,257",
+    "marketCap": "$3,214,418,447",
+    "totalSupply": "1,818,000,000 STX",
+    "website": "https://stacks.co/",
+    "link": "https://coinmarketcap.com/currencies/stacks/"
+  },
+  {
+    "price": "$8.21",
+    "volume": "$207,884,964",
+    "marketCap": "$3,188,980,934",
+    "totalSupply": "532,073,613 RNDR",
+    "website": "https://etherscan.io/token/0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+    "link": "https://coinmarketcap.com/currencies/render/"
+  },
+  {
+    "price": "$0.08719",
+    "volume": "$82,389,413",
+    "marketCap": "$3,117,186,500",
+    "totalSupply": "50,000,000,000 HBAR",
+    "website": "https://www.hedera.com/",
+    "link": "https://coinmarketcap.com/currencies/hedera/"
+  },
+  {
+    "price": "$5.39",
+    "volume": "$228,130,811",
+    "marketCap": "$3,033,313,657",
+    "totalSupply": "1,960,191,674 FIL",
+    "website": "https://bscscan.com/token/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+    "link": "https://coinmarketcap.com/currencies/filecoin/"
+  },
+  {
+    "price": "$7.53",
+    "volume": "$197,356,921",
+    "marketCap": "$2,945,229,896",
+    "totalSupply": "390,930,671 ATOM",
+    "website": "https://bscscan.com/token/0x0eb3a705fc54725037cc9e008bdede697f62f335",
+    "link": "https://coinmarketcap.com/currencies/cosmos/"
+  },
+  {
+    "price": "$0.9989",
+    "volume": "$8,033,627,188",
+    "marketCap": "$2,929,497,348",
+    "totalSupply": "2,932,806,955 FDUSD",
+    "website": "https://etherscan.io/token/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+    "link": "https://coinmarketcap.com/currencies/first-digital-usd/"
+  },
+  {
+    "price": "$0.8803",
+    "volume": "$155,905,089",
+    "marketCap": "$2,873,648,384",
+    "totalSupply": "6,219,316,795 MNT",
+    "website": "https://etherscan.io/token/0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+    "link": "https://coinmarketcap.com/currencies/mantle/"
+  },
+  {
+    "price": "$0.09686",
+    "volume": "$64,859,897",
+    "marketCap": "$2,816,028,640",
+    "totalSupply": "50,001,786,967 XLM",
+    "website": "https://www.stellar.org/",
+    "link": "https://coinmarketcap.com/currencies/stellar/"
+  },
+  {
+    "price": "$45.46",
+    "volume": "$6,097,001",
+    "marketCap": "$2,727,438,603",
+    "totalSupply": "300,000,000 OKB",
+    "website": "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "link": "https://coinmarketcap.com/currencies/okb/"
+  },
+  {
+    "price": "$1.83",
+    "volume": "$133,240,199",
+    "marketCap": "$2,715,617,802",
+    "totalSupply": "2,000,000,000 IMX",
+    "website": "https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+    "link": "https://coinmarketcap.com/currencies/immutable-x/"
+  },
+  {
+    "price": "$0.9372",
+    "volume": "$427,826,107",
+    "marketCap": "$2,714,420,594",
+    "totalSupply": "10,000,000,000 ARB",
+    "website": "https://arbiscan.io/token/0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "link": "https://coinmarketcap.com/currencies/arbitrum/"
+  },
+  {
+    "price": "$0.1011",
+    "volume": "$18,576,067",
+    "marketCap": "$2,687,378,831",
+    "totalSupply": "30,000,000,000 CRO",
+    "website": "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "link": "https://coinmarketcap.com/currencies/cronos/"
+  },
+  {
+    "price": "$27.31",
+    "volume": "$256,983,623",
+    "marketCap": "$2,550,767,818",
+    "totalSupply": "100,000,000 INJ",
+    "website": "https://explorer.injective.network/",
+    "link": "https://coinmarketcap.com/currencies/injective/"
+  },
+  {
+    "price": "$2.54",
+    "volume": "$484,507,580",
+    "marketCap": "$2,539,545,745",
+    "totalSupply": "998,905,910 WIF",
+    "website": "https://solana.fm/address/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "link": "https://coinmarketcap.com/currencies/dogwifhat/"
+  },
+  {
+    "price": "$0.997",
+    "volume": "$284,686,746",
+    "marketCap": "$2,418,942,301",
+    "totalSupply": "10,000,000,000 SUI",
+    "website": "https://suiscan.xyz/mainnet/coin/0x2::sui::SUI/txs",
+    "link": "https://coinmarketcap.com/currencies/sui/"
+  },
+  {
+    "price": "$0.2442",
+    "volume": "$187,501,303",
+    "marketCap": "$2,322,549,982",
+    "totalSupply": "10,799,056,048 GRT",
+    "website": "https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "link": "https://coinmarketcap.com/currencies/the-graph/"
+  },
+  {
+    "price": "$0.000236",
+    "volume": "$428,911,420",
+    "marketCap": "$2,256,706,933",
+    "totalSupply": "9,690,577,920,465 FLOKI",
+    "website": "https://etherscan.io/token/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "link": "https://coinmarketcap.com/currencies/floki-inu/"
+  },
+  {
+    "price": "$325.25",
+    "volume": "$50,698,218",
+    "marketCap": "$2,250,895,303",
+    "totalSupply": "6,920,423 TAO",
+    "website": null,
+    "link": "https://coinmarketcap.com/currencies/bittensor/"
+  },
+  {
+    "price": "$2.06",
+    "volume": "$393,513,503",
+    "marketCap": "$2,238,390,718",
+    "totalSupply": "4,294,967,296 OP",
+    "website": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042",
+    "link": "https://coinmarketcap.com/currencies/optimism-ethereum/"
+  },
+  {
+    "price": "$33.27",
+    "volume": "$120,067,011",
+    "marketCap": "$2,184,163,373",
+    "totalSupply": "65,652,466 AR",
+    "website": "https://www.arweave.org/",
+    "link": "https://coinmarketcap.com/currencies/arweave/"
+  },
+  {
+    "price": "$0.02965",
+    "volume": "$48,078,120",
+    "marketCap": "$2,155,823,574",
+    "totalSupply": "85,985,041,177 VET",
+    "website": null,
+    "link": "https://coinmarketcap.com/currencies/vechain/"
+  },
+  {
+    "price": "$2,267.76",
+    "volume": "$103,352,722",
+    "marketCap": "$2,104,252,955",
+    "totalSupply": "0.33602899",
+    "website": "https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "link": "https://coinmarketcap.com/currencies/maker/"
+  },
+  {
+    "price": "$0.00002708",
+    "volume": "$376,680,102",
+    "marketCap": "$1,838,584,121",
+    "totalSupply": "93,032,921,824,928 BONK",
+    "website": "https://etherscan.io/token/0x1151CB3d861920e07a38e03eEAd12C32178567F6",
+    "link": "https://coinmarketcap.com/currencies/bonk1/"
+  },
+  {
+    "price": "$1.80",
+    "volume": "$30,597,328",
+    "marketCap": "$1,802,580,772",
+    "totalSupply": "1,000,000,000 THETA",
+    "website": "https://www.thetatoken.org/",
+    "link": "https://coinmarketcap.com/currencies/theta-network/"
+  },
+  {
+    "price": "$0.6341",
+    "volume": "$178,447,939",
+    "marketCap": "$1,777,856,418",
+    "totalSupply": "3,175,000,000 FTM",
+    "website": "https://etherscan.io/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "link": "https://coinmarketcap.com/currencies/fantom/"
+  },
+  {
+    "price": "$1.27",
+    "volume": "$316,390,874",
+    "marketCap": "$1,768,755,490",
+    "totalSupply": "10,000,000,000 ONDO",
+    "website": "https://etherscan.io/token/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "link": "https://coinmarketcap.com/currencies/ondo-finance/"
+  },
+  {
+    "price": "$0.03485",
+    "volume": "$226,772,843",
+    "marketCap": "$1,718,148,137",
+    "totalSupply": "50,000,000,000 JASMY",
+    "website": "https://etherscan.io/token/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+    "link": "https://coinmarketcap.com/currencies/jasmy/"
+  },
+  {
+    "price": "$4.89",
+    "volume": "$261,263,028",
+    "marketCap": "$1,638,409,314",
+    "totalSupply": "5.16603896",
+    "website": "https://thorchain.org/",
+    "link": "https://coinmarketcap.com/currencies/thorchain/"
+  },
+  {
+    "price": "$1.84",
+    "volume": "$227,821,810",
+    "marketCap": "$1,640,271,956",
+    "totalSupply": "0.04696641",
+    "website": "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "link": "https://coinmarketcap.com/currencies/lido-dao/"
+  },
+  {
+    "price": "$0.01594",
+    "volume": "$830,917,150",
+    "marketCap": "$1,636,879,744",
+    "totalSupply": "102,701,033,769 NOT",
+    "website": "https://tonscan.org/address/EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
+    "link": "https://coinmarketcap.com/currencies/notcoin/"
+  },
+  {
+    "price": "$1.15",
+    "volume": "$55,211,173",
+    "marketCap": "$1,608,265,194",
+    "totalSupply": "2,000,000,000 BGB",
+    "website": "https://etherscan.io/token/0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+    "link": "https://coinmarketcap.com/currencies/bitget-token-new/"
+  },
+  {
+    "price": "$8.41",
+    "volume": "$110,779,542",
+    "marketCap": "$1,599,439,640",
+    "totalSupply": "1,049,095,890 TIA",
+    "website": "https://www.mintscan.io/osmosis/assets",
+    "link": "https://coinmarketcap.com/currencies/celestia/"
+  },
+  {
+    "price": "$1.62",
+    "volume": "$73,719,729",
+    "marketCap": "$1,446,152,335",
+    "totalSupply": "2,100,000,000 CORE",
+    "website": "https://www.coredao.org/",
+    "link": "https://coinmarketcap.com/currencies/core-dao/"
+  },
+  {
+    "price": "$0.3851",
+    "volume": "$113,548,726",
+    "marketCap": "$1,395,804,009",
+    "totalSupply": "9,999,988,955 PYTH",
+    "website": "https://solana.fm/address/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+    "link": "https://coinmarketcap.com/currencies/pyth-network/"
+  },
+  {
+    "price": "$1.03",
+    "volume": "$108,399,473",
+    "marketCap": "$1,342,723,901",
+    "totalSupply": "10,000,000,000 STRK",
+    "website": "https://etherscan.io/token/0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+    "link": "https://coinmarketcap.com/currencies/starknet-token/"
+  },
+  {
+    "price": "$0.4579",
+    "volume": "$99,509,033",
+    "marketCap": "$1,339,313,741",
+    "totalSupply": "10,000,000,000 SEI",
+    "website": "https://www.seiscan.app/pacific-1/accounts/usei",
+    "link": "https://coinmarketcap.com/currencies/sei/"
+  },
+  {
+    "price": "$1.54",
+    "volume": "$200,455,253",
+    "marketCap": "$1,307,317,971",
+    "totalSupply": "2,630,547,141 FET",
+    "website": "https://etherscan.io/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+    "link": "https://coinmarketcap.com/currencies/fetch/"
+  },
+  {
+    "price": "$87.89",
+    "volume": "$145,611,357",
+    "marketCap": "$1,304,934,297",
+    "totalSupply": "0.10158501",
+    "website": "https://etherscan.io/token/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "link": "https://coinmarketcap.com/currencies/aave/"
+  },
+  {
+    "price": "$0.1588",
+    "volume": "$66,722,619",
+    "marketCap": "$1,298,917,757",
+    "totalSupply": "10,000,000,000 ALGO",
+    "website": "https://explorer.perawallet.app/asset/0",
+    "link": "https://coinmarketcap.com/currencies/algorand/"
+  },
+  {
+    "price": "$0.9283",
+    "volume": "$110,707,262",
+    "marketCap": "$1,253,173,760",
+    "totalSupply": "10,000,000,000 JUP",
+    "website": "https://solana.fm/address/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "link": "https://coinmarketcap.com/currencies/jupiter-ag/"
+  },
+  {
+    "price": "$0.02741",
+    "volume": "$21,369,408",
+    "marketCap": "$1,169,168,432",
+    "totalSupply": "100,559,787,198 FLR",
+    "website": null,
+    "link": "https://coinmarketcap.com/currencies/flare/"
+  },
+  {
+    "price": "$0.7516",
+    "volume": "$41,954,589",
+    "marketCap": "$1,136,192,520",
+    "totalSupply": "1,511,780,104 FLOW",
+    "website": "https://etherscan.io/token/0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b",
+    "link": "https://coinmarketcap.com/currencies/flow/"
+  },
+  {
+    "price": "$52.23",
+    "volume": "$299,337,690",
+    "marketCap": "$1,096,811,905",
+    "totalSupply": "21,000,000 ORDI",
+    "website": "https://ordinalswallet.com/inscription/b61b0172d95e266c18aea0c624db987e971a5d6d4ebc2aaed85da4642d635735i0",
+    "link": "https://coinmarketcap.com/currencies/ordi/"
+  },
+  {
+    "price": "$0.03452",
+    "volume": "$133,346,856",
+    "marketCap": "$1,092,684,240",
+    "totalSupply": "33,687,147,926 GALA",
+    "website": "https://etherscan.io/token/0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+    "link": "https://coinmarketcap.com/currencies/gala/"
+  },
+  {
+    "price": "$0.7156",
+    "volume": "$180,864,188",
+    "marketCap": "$1,087,995,646",
+    "totalSupply": "15,000,000,000 ENA",
+    "website": "https://etherscan.io/token/0x57e114B691Db790C35207b2e685D4A43181e6061",
+    "link": "https://coinmarketcap.com/currencies/ethena/"
+  },
+  {
+    "price": "$0.02157",
+    "volume": "$17,918,845",
+    "marketCap": "$1,067,160,690",
+    "totalSupply": "62,434,008,330 BEAM",
+    "website": "https://etherscan.io/token/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+    "link": "https://coinmarketcap.com/currencies/onbeam/"
+  },
+  {
+    "price": "$0.1178",
+    "volume": "$122,736,412",
+    "marketCap": "$1,047,090,071",
+    "totalSupply": "8,888,888,888 CHZ",
+    "website": "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "link": "https://coinmarketcap.com/currencies/chiliz/"
+  },
+  {
+    "price": "$85.02",
+    "volume": "$17,844,799",
+    "marketCap": "$1,026,477,130",
+    "totalSupply": "14,881,364 QNT",
+    "website": "https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675",
+    "link": "https://coinmarketcap.com/currencies/quant/"
+  },
+  {
+    "price": "$6.88",
+    "volume": "$51,087,586",
+    "marketCap": "$1,003,319,717",
+    "totalSupply": "270,000,000 AXS",
+    "website": "https://etherscan.io/token/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "link": "https://coinmarketcap.com/currencies/axie-infinity/"
+  },
+  {
+    "price": "$50.75",
+    "volume": "$43,398,345",
+    "marketCap": "$1,000,581,156",
+    "totalSupply": "19,714,069 BSV",
+    "website": "https://www.bsvblockchain.org/",
+    "link": "https://coinmarketcap.com/currencies/bitcoin-sv/"
+  },
+  {
+    "price": "$1.68",
+    "volume": "$43,897,717",
+    "marketCap": "$996,883,829",
+    "totalSupply": "766,665,433 DYDX",
+    "website": "https://www.mintscan.io/osmosis/assets",
+    "link": "https://coinmarketcap.com/currencies/dydx-chain/"
+  },
+  {
+    "price": "$0.000001027",
+    "volume": "$121,643,986",
+    "marketCap": "$994,090,664",
+    "totalSupply": "990,000,000,000,000 BTT",
+    "website": "https://tronscan.org/#/token20/TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+    "link": "https://coinmarketcap.com/currencies/bittorrent-new/"
+  },
+  {
+    "price": "$10.12",
+    "volume": "$1,293,837",
+    "marketCap": "$967,643,124",
+    "totalSupply": "143,142,961 KCS",
+    "website": "https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+    "link": "https://coinmarketcap.com/currencies/kucoin-token/"
+  },
+  {
+    "price": "$0.5269",
+    "volume": "$121,692,012",
+    "marketCap": "$948,374,662",
+    "totalSupply": "10,000,000,000 W",
+    "website": "https://etherscan.io/token/0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+    "link": "https://coinmarketcap.com/currencies/wormhole/"
+  },
+  {
+    "price": "$3.94",
+    "volume": "$79,810,901",
+    "marketCap": "$945,232,397",
+    "totalSupply": "240,106,679 AKT",
+    "website": "https://www.mintscan.io/osmosis/assets",
+    "link": "https://coinmarketcap.com/currencies/akash-network/"
+  },
+  {
+    "price": "$2.80",
+    "volume": "$19,218,631",
+    "marketCap": "$921,694,140",
+    "totalSupply": "1,000,000,000 RON",
+    "website": "https://explorer.roninchain.com/address/0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
+    "link": "https://coinmarketcap.com/currencies/ronin/"
+  },
+  {
+    "price": "$12.88",
+    "volume": "$39,714,135",
+    "marketCap": "$908,503,508",
+    "totalSupply": "100,000,000 NEO",
+    "website": "https://neo.org/",
+    "link": "https://coinmarketcap.com/currencies/neo/"
+  },
+  {
+    "price": "$3.79",
+    "volume": "$273,856,998",
+    "marketCap": "$906,167,883",
+    "totalSupply": "10,000,000,000 WLD",
+    "website": "https://etherscan.io/token/0x163f8c2467924be0ae7b5347228cabf260318753",
+    "link": "https://coinmarketcap.com/currencies/worldcoin-org/"
+  },
+  {
+    "price": "$33.33",
+    "volume": "$22,696,227",
+    "marketCap": "$901,630,818",
+    "totalSupply": "27,056,750 EGLD",
+    "website": null,
+    "link": "https://coinmarketcap.com/currencies/multiversx-egld/"
+  },
+  {
+    "price": "$0.3942",
+    "volume": "$193,960,848",
+    "marketCap": "$893,064,809",
+    "totalSupply": "3,000,000,000 SAND",
+    "website": "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+    "link": "https://coinmarketcap.com/currencies/the-sandbox/"
+  },
+  {
+    "price": "$336.31",
+    "volume": "$20,669,977",
+    "marketCap": "$870,898,426",
+    "totalSupply": "3,000,000 GNO",
+    "website": "https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96",
+    "link": "https://coinmarketcap.com/currencies/gnosis-gno/"
+  },
+  {
+    "price": "$0.6627",
+    "volume": "$89,574,161",
+    "marketCap": "$851,435,888",
+    "totalSupply": "1,410,728,723 AGIX",
+    "website": "https://etherscan.io/token/0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+    "link": "https://coinmarketcap.com/currencies/singularitynet/"
+  },
+  {
+    "price": "$0.1229",
+    "volume": "$91,359,799",
+    "marketCap": "$825,077,241",
+    "totalSupply": "10,000,000,000 ROSE",
+    "website": "https://etherscan.io/token/0x26B80FBfC01b71495f477d5237071242e0d959d7",
+    "link": "https://coinmarketcap.com/currencies/oasis-network/"
+  },
+  {
+    "price": "$0.8156",
+    "volume": "$34,708,939",
+    "marketCap": "$803,423,605",
+    "totalSupply": "1,005,580,017 XTZ",
+    "website": null,
+    "link": "https://coinmarketcap.com/currencies/tezos/"
+  },
+  {
+    "price": "$1.39",
+    "volume": "$5,903,315",
+    "marketCap": "$777,834,469",
+    "totalSupply": "1,000,000,000 NEXO",
+    "website": "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "link": "https://coinmarketcap.com/currencies/nexo/"
+  },
+  {
+    "price": "$8.34",
+    "volume": "$5,560,232",
+    "marketCap": "$777,200,508",
+    "totalSupply": "300,000,000 GT",
+    "website": "https://etherscan.io/token/0xe66747a101bff2dba3697199dcce5b743b454759",
+    "link": "https://coinmarketcap.com/currencies/gatetoken/"
+  },
+  {
+    "price": "$0.00003918",
+    "volume": "$12,355,312",
+    "marketCap": "$772,439,723",
+    "totalSupply": "19,714,157,798,092 XEC",
+    "website": "https://e.cash/",
+    "link": "https://coinmarketcap.com/currencies/ecash/"
+  },
+  {
+    "price": "$0.6885",
+    "volume": "$31,006,810",
+    "marketCap": "$770,145,649",
+    "totalSupply": "1,167,330,059 MINA",
+    "website": "https://minaprotocol.com/",
+    "link": "https://coinmarketcap.com/currencies/mina/"
+  },
+  {
+    "price": "$0.6831",
+    "volume": "$233,298,951",
+    "marketCap": "$770,172,865",
+    "totalSupply": "1,127,540,931 EOS",
+    "website": "https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+    "link": "https://coinmarketcap.com/currencies/eos/"
+  },
+  {
+    "price": "$4.96",
+    "volume": "$57,541,795",
+    "marketCap": "$765,583,915",
+    "totalSupply": "258,446,028 PENDLE",
+    "website": "https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827",
+    "link": "https://coinmarketcap.com/currencies/pendle/"
+  },
+  {
+    "price": "$0.395",
+    "volume": "$158,300,837",
+    "marketCap": "$753,842,695",
+    "totalSupply": "2,193,179,327 MANA",
+    "website": "https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "link": "https://coinmarketcap.com/currencies/decentraland/"
+  },
+  {
+    "price": "$2.25",
+    "volume": "$31,470,453",
+    "marketCap": "$737,454,123",
+    "totalSupply": "328,193,104 SNX",
+    "website": "https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "link": "https://coinmarketcap.com/currencies/synthetix/"
   }
 ]
