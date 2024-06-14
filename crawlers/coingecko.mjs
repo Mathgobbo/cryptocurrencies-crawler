@@ -1,5 +1,5 @@
-import { COINGECKO_URL } from "./constants.mjs";
-import { sleep, writeJsonToFile } from "./utils.mjs";
+import { COINGECKO_URL, NUMBER_OF_PAGES } from "../constants.mjs";
+import { sleep, writeJsonToFile } from "../utils.mjs";
 
 export const extractFromCoingecko = async (browser) => {
   // Timer start
@@ -10,7 +10,11 @@ export const extractFromCoingecko = async (browser) => {
 
   // First, extracting the tokens page links
   const savedLinks = [];
-  for (let tokensTablePage = 1; tokensTablePage < 2; tokensTablePage++) {
+  for (
+    let tokensTablePage = 1;
+    tokensTablePage <= NUMBER_OF_PAGES;
+    tokensTablePage++
+  ) {
     // Extract data from page...
     const links = await page.evaluate(() => {
       // Get all anchors in the Table
@@ -59,12 +63,14 @@ export const extractFromCoingecko = async (browser) => {
       let website = document.querySelector(
         "#gecko-coin-page-container > div.\\32 lg\\:tw-row-span-2.\\32 lg\\:tw-pr-6.\\32 lg\\:tw-border-r.tw-border-gray-200.dark\\:tw-border-moon-700.tw-flex.tw-flex-col > div.tw-relative.\\32 lg\\:tw-mb-6.tw-grid.tw-grid-cols-1.tw-divide-y.tw-divide-gray-200.dark\\:tw-divide-moon-700 > div:nth-child(1) > div > div.tw-text-gray-900.dark\\:tw-text-moon-50.tw-font-semibold.tw-text-sm.tw-leading-5.tw-pl-2.tw-text-right > div > a"
       )?.innerText;
-      if (!website)
-        website = document.querySelector(
-          "#gecko-coin-page-container > div.\\32 lg\\:tw-row-span-2.\\32 lg\\:tw-pr-6.\\32 lg\\:tw-border-r.tw-border-gray-200.dark\\:tw-border-moon-700.tw-flex.tw-flex-col > div.tw-relative.\\32 lg\\:tw-mb-6.tw-grid.tw-grid-cols-1.tw-divide-y.tw-divide-gray-200.dark\\:tw-divide-moon-700 > div:nth-child(2) > div > div.tw-text-gray-900.dark\\:tw-text-moon-50.tw-font-semibold.tw-text-sm.tw-leading-5.tw-pl-2.tw-text-right > div > a:nth-child(1)"
-        )?.innerText;
 
-      return { price, volume, marketCap, totalSupply, website };
+      return {
+        price: price ?? null,
+        volume: volume ?? null,
+        marketCap: marketCap ?? null,
+        totalSupply: totalSupply ?? null,
+        website: website ?? null,
+      };
     });
 
     tokensDetails.push({ ...tokenDetails, link: COINGECKO_URL + link });

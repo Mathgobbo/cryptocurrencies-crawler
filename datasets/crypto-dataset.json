@@ -1,0 +1,1602 @@
+[
+  {
+    "price": "$67,339.31 USD",
+    "volume": "$37.07 B",
+    "marketCap": "$1,327.33 B",
+    "totalSupply": "$1,327.33 B",
+    "website": "https://bitcoin.org/",
+    "link": "https://crypto.com/price/price/bitcoin"
+  },
+  {
+    "price": "$3,498.40 USD",
+    "volume": "$19.19 B",
+    "marketCap": "$420.35 B",
+    "totalSupply": "$420.35 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/ethereum"
+  },
+  {
+    "price": "$0.9996 USD",
+    "volume": "$72.37 B",
+    "marketCap": "$112.45 B",
+    "totalSupply": "$112.45 B",
+    "website": "https://tether.to/",
+    "link": "https://crypto.com/price/price/tether"
+  },
+  {
+    "price": "$602.70 USD",
+    "volume": "$2.6 B",
+    "marketCap": "$88.95 B",
+    "totalSupply": "$88.95 B",
+    "website": "https://www.binance.com/",
+    "link": "https://crypto.com/price/price/bnb"
+  },
+  {
+    "price": "$149.35 USD",
+    "volume": "$2.81 B",
+    "marketCap": "$68.84 B",
+    "totalSupply": "$68.84 B",
+    "website": "https://solana.com/",
+    "link": "https://crypto.com/price/price/solana"
+  },
+  {
+    "price": "$1.00 USD",
+    "volume": "$6.72 B",
+    "marketCap": "$32.14 B",
+    "totalSupply": "$32.14 B",
+    "website": "https://www.centre.io/usdc",
+    "link": "https://crypto.com/price/price/usd-coin"
+  },
+  {
+    "price": "$0.4804 USD",
+    "volume": "$1.51 B",
+    "marketCap": "$26.66 B",
+    "totalSupply": "$26.66 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/xrp"
+  },
+  {
+    "price": "$0.138 USD",
+    "volume": "$1.27 B",
+    "marketCap": "$19.97 B",
+    "totalSupply": "$19.97 B",
+    "website": "http://dogecoin.com/",
+    "link": "https://crypto.com/price/price/dogecoin"
+  },
+  {
+    "price": "$6.95 USD",
+    "volume": "$277.66 M",
+    "marketCap": "$16.9 B",
+    "totalSupply": "$16.9 B",
+    "website": "https://ton.org/",
+    "link": "https://crypto.com/price/price/toncoin"
+  },
+  {
+    "price": "$0.4221 USD",
+    "volume": "$600.39 M",
+    "marketCap": "$15.08 B",
+    "totalSupply": "$15.08 B",
+    "website": "https://www.cardano.org/",
+    "link": "https://crypto.com/price/price/cardano"
+  },
+  {
+    "price": "$0.0000216 USD",
+    "volume": "$825.65 M",
+    "marketCap": "$12.73 B",
+    "totalSupply": "$12.73 B",
+    "website": "https://shibatoken.com/",
+    "link": "https://crypto.com/price/price/shiba-inu"
+  },
+  {
+    "price": "$31.59 USD",
+    "volume": "$431.75 M",
+    "marketCap": "$12.43 B",
+    "totalSupply": "$12.43 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/avalanche"
+  },
+  {
+    "price": "$67,386.05 USD",
+    "volume": "$279.14 M",
+    "marketCap": "$10.99 B",
+    "totalSupply": "$10.99 B",
+    "website": "https://wbtc.network/",
+    "link": "https://crypto.com/price/price/wrapped-bitcoin"
+  },
+  {
+    "price": "$0.1167 USD",
+    "volume": "$368.78 M",
+    "marketCap": "$10.19 B",
+    "totalSupply": "$10.19 B",
+    "website": "https://tron.network/",
+    "link": "https://crypto.com/price/price/tron"
+  },
+  {
+    "price": "$6.39 USD",
+    "volume": "$289.02 M",
+    "marketCap": "$9.19 B",
+    "totalSupply": "$9.19 B",
+    "website": "https://polkadot.network/",
+    "link": "https://crypto.com/price/price/polkadot-new"
+  },
+  {
+    "price": "$447.17 USD",
+    "volume": "$372.17 M",
+    "marketCap": "$8.82 B",
+    "totalSupply": "$8.82 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/bitcoin-cash"
+  },
+  {
+    "price": "$15.02 USD",
+    "volume": "$457.95 M",
+    "marketCap": "$8.82 B",
+    "totalSupply": "$8.82 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/chainlink"
+  },
+  {
+    "price": "$6.07 USD",
+    "volume": "$351.51 M",
+    "marketCap": "$6.58 B",
+    "totalSupply": "$6.58 B",
+    "website": "https://near.org/",
+    "link": "https://crypto.com/price/price/near-protocol"
+  },
+  {
+    "price": "$0.6193 USD",
+    "volume": "$438.2 M",
+    "marketCap": "$6.13 B",
+    "totalSupply": "$6.13 B",
+    "website": "https://polygon.technology/",
+    "link": "https://crypto.com/price/price/polygon"
+  },
+  {
+    "price": "$77.39 USD",
+    "volume": "$566.52 M",
+    "marketCap": "$5.78 B",
+    "totalSupply": "$5.78 B",
+    "website": "https://litecoin.org/",
+    "link": "https://crypto.com/price/price/litecoin"
+  },
+  {
+    "price": "$5.93 USD",
+    "volume": "$2.8 M",
+    "marketCap": "$5.49 B",
+    "totalSupply": "$5.49 B",
+    "website": "https://www.bitfinex.com/",
+    "link": "https://crypto.com/price/price/unus-sed-leo"
+  },
+  {
+    "price": "$8.95 USD",
+    "volume": "$327.92 M",
+    "marketCap": "$5.37 B",
+    "totalSupply": "$5.37 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/uniswap"
+  },
+  {
+    "price": "$0.00001275 USD",
+    "volume": "$1.31 B",
+    "marketCap": "$5.37 B",
+    "totalSupply": "$5.37 B",
+    "website": "https://www.pepe.vip/",
+    "link": "https://crypto.com/price/price/pepe"
+  },
+  {
+    "price": "$0.9998 USD",
+    "volume": "$276.16 M",
+    "marketCap": "$5.35 B",
+    "totalSupply": "$5.35 B",
+    "website": "https://www.makerdao.com/",
+    "link": "https://crypto.com/price/price/multi-collateral-dai"
+  },
+  {
+    "price": "$10.09 USD",
+    "volume": "$173.49 M",
+    "marketCap": "$4.69 B",
+    "totalSupply": "$4.69 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/internet-computer"
+  },
+  {
+    "price": "$0.1639 USD",
+    "volume": "$79.85 M",
+    "marketCap": "$3.92 B",
+    "totalSupply": "$3.92 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/kaspa"
+  },
+  {
+    "price": "$25.70 USD",
+    "volume": "$247.6 M",
+    "marketCap": "$3.79 B",
+    "totalSupply": "$3.79 B",
+    "website": "https://ethereumclassic.org/",
+    "link": "https://crypto.com/price/price/ethereum-classic"
+  },
+  {
+    "price": "$7.98 USD",
+    "volume": "$285.34 M",
+    "marketCap": "$3.5 B",
+    "totalSupply": "$3.5 B",
+    "website": "https://aptoslabs.com/",
+    "link": "https://crypto.com/price/price/aptos"
+  },
+  {
+    "price": "$175.42 USD",
+    "volume": "$111.83 M",
+    "marketCap": "$3.24 B",
+    "totalSupply": "$3.24 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/monero"
+  },
+  {
+    "price": "$2.19 USD",
+    "volume": "$170.7 M",
+    "marketCap": "$3.21 B",
+    "totalSupply": "$3.21 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/stacks"
+  },
+  {
+    "price": "$8.21 USD",
+    "volume": "$208.43 M",
+    "marketCap": "$3.19 B",
+    "totalSupply": "$3.19 B",
+    "website": "http://renderfoundation.com/",
+    "link": "https://crypto.com/price/price/render-token"
+  },
+  {
+    "price": "$0.08723 USD",
+    "volume": "$82.48 M",
+    "marketCap": "$3.12 B",
+    "totalSupply": "$3.12 B",
+    "website": "https://www.hedera.com/",
+    "link": "https://crypto.com/price/price/hedera"
+  },
+  {
+    "price": "$5.39 USD",
+    "volume": "$228.27 M",
+    "marketCap": "$3.03 B",
+    "totalSupply": "$3.03 B",
+    "website": "https://filecoin.io/",
+    "link": "https://crypto.com/price/price/filecoin"
+  },
+  {
+    "price": "$7.52 USD",
+    "volume": "$197.13 M",
+    "marketCap": "$2.94 B",
+    "totalSupply": "$2.94 B",
+    "website": "https://cosmos.network/",
+    "link": "https://crypto.com/price/price/cosmos"
+  },
+  {
+    "price": "$0.9994 USD",
+    "volume": "$8.06 B",
+    "marketCap": "$2.93 B",
+    "totalSupply": "$2.93 B",
+    "website": "https://firstdigitallabs.com/",
+    "link": "https://crypto.com/price/price/first-digital-usd"
+  },
+  {
+    "price": "$0.8791 USD",
+    "volume": "$155.61 M",
+    "marketCap": "$2.87 B",
+    "totalSupply": "$2.87 B",
+    "website": "https://www.mantle.xyz/",
+    "link": "https://crypto.com/price/price/mantle"
+  },
+  {
+    "price": "$0.09685 USD",
+    "volume": "$64.95 M",
+    "marketCap": "$2.82 B",
+    "totalSupply": "$2.82 B",
+    "website": "https://www.stellar.org/",
+    "link": "https://crypto.com/price/price/stellar"
+  },
+  {
+    "price": "$45.46 USD",
+    "volume": "$6.09 M",
+    "marketCap": "$2.73 B",
+    "totalSupply": "$2.73 B",
+    "website": "https://www.okex.com/",
+    "link": "https://crypto.com/price/price/okb"
+  },
+  {
+    "price": "$0.9384 USD",
+    "volume": "$427.86 M",
+    "marketCap": "$2.72 B",
+    "totalSupply": "$2.72 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/arbitrum"
+  },
+  {
+    "price": "$0.1009 USD",
+    "volume": "$18.52 M",
+    "marketCap": "$2.7 B",
+    "totalSupply": "$2.7 B",
+    "website": "https://cronos.org/",
+    "link": "https://crypto.com/price/price/cronos"
+  },
+  {
+    "price": "$1.84 USD",
+    "volume": "$133.36 M",
+    "marketCap": "$2.72 B",
+    "totalSupply": "$2.72 B",
+    "website": "https://www.immutable.com/",
+    "link": "https://crypto.com/price/price/immutable-x"
+  },
+  {
+    "price": "$2.55 USD",
+    "volume": "$483.77 M",
+    "marketCap": "$2.54 B",
+    "totalSupply": "$2.54 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/dogwifhat"
+  },
+  {
+    "price": "$27.41 USD",
+    "volume": "$257.43 M",
+    "marketCap": "$2.56 B",
+    "totalSupply": "$2.56 B",
+    "website": "https://injective.com/",
+    "link": "https://crypto.com/price/price/injective-protocol"
+  },
+  {
+    "price": "$0.9953 USD",
+    "volume": "$284.81 M",
+    "marketCap": "$2.41 B",
+    "totalSupply": "$2.41 B",
+    "website": "https://sui.io/#",
+    "link": "https://crypto.com/price/price/sui"
+  },
+  {
+    "price": "$0.2447 USD",
+    "volume": "$186.61 M",
+    "marketCap": "$2.33 B",
+    "totalSupply": "$2.33 B",
+    "website": "https://thegraph.com/",
+    "link": "https://crypto.com/price/price/the-graph"
+  },
+  {
+    "price": "$0.0002369 USD",
+    "volume": "$426.48 M",
+    "marketCap": "$2.26 B",
+    "totalSupply": "$2.26 B",
+    "website": "https://floki.com/",
+    "link": "https://crypto.com/price/price/floki-inu"
+  },
+  {
+    "price": "$2.06 USD",
+    "volume": "$393.75 M",
+    "marketCap": "$2.24 B",
+    "totalSupply": "$2.24 B",
+    "website": "https://www.optimism.io/",
+    "link": "https://crypto.com/price/price/optimism-ethereum"
+  },
+  {
+    "price": "$33.19 USD",
+    "volume": "$120.28 M",
+    "marketCap": "$2.18 B",
+    "totalSupply": "$2.18 B",
+    "website": "https://www.arweave.org/",
+    "link": "https://crypto.com/price/price/arweave"
+  },
+  {
+    "price": "$0.0297 USD",
+    "volume": "$47.63 M",
+    "marketCap": "$2.16 B",
+    "totalSupply": "$2.16 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/vechain"
+  },
+  {
+    "price": "$2,265.33 USD",
+    "volume": "$103.42 M",
+    "marketCap": "$2.1 B",
+    "totalSupply": "$2.1 B",
+    "website": "https://makerdao.com/",
+    "link": "https://crypto.com/price/price/maker"
+  },
+  {
+    "price": "$0.00002713 USD",
+    "volume": "$376.65 M",
+    "marketCap": "$1.84 B",
+    "totalSupply": "$1.84 B",
+    "website": "https://www.bonkcoin.com/",
+    "link": "https://crypto.com/price/price/bonk1"
+  },
+  {
+    "price": "$1.80 USD",
+    "volume": "$30.58 M",
+    "marketCap": "$1.8 B",
+    "totalSupply": "$1.8 B",
+    "website": "https://www.thetatoken.org/",
+    "link": "https://crypto.com/price/price/theta-network"
+  },
+  {
+    "price": "$0.6341 USD",
+    "volume": "$178.49 M",
+    "marketCap": "$1.78 B",
+    "totalSupply": "$1.78 B",
+    "website": "https://fantom.foundation/",
+    "link": "https://crypto.com/price/price/fantom"
+  },
+  {
+    "price": "$1.27 USD",
+    "volume": "$316.08 M",
+    "marketCap": "$1.77 B",
+    "totalSupply": "$1.77 B",
+    "website": "https://ondo.finance/",
+    "link": "https://crypto.com/price/price/ondo-finance"
+  },
+  {
+    "price": "$0.03488 USD",
+    "volume": "$226.86 M",
+    "marketCap": "$1.72 B",
+    "totalSupply": "$1.72 B",
+    "website": "https://www.jasmy.co.jp/en_company.html",
+    "link": "https://crypto.com/price/price/jasmy"
+  },
+  {
+    "price": "$4.90 USD",
+    "volume": "$261.14 M",
+    "marketCap": "$1.64 B",
+    "totalSupply": "$1.64 B",
+    "website": "https://thorchain.org/",
+    "link": "https://crypto.com/price/price/thorchain"
+  },
+  {
+    "price": "$0.01591 USD",
+    "volume": "$831.19 M",
+    "marketCap": "$1.63 B",
+    "totalSupply": "$1.63 B",
+    "website": "https://notco.in/",
+    "link": "https://crypto.com/price/price/notcoin"
+  },
+  {
+    "price": "$1.84 USD",
+    "volume": "$227.75 M",
+    "marketCap": "$1.64 B",
+    "totalSupply": "$1.64 B",
+    "website": "https://lido.fi/",
+    "link": "https://crypto.com/price/price/lido-dao"
+  },
+  {
+    "price": "$8.43 USD",
+    "volume": "$110.6 M",
+    "marketCap": "$1.6 B",
+    "totalSupply": "$1.6 B",
+    "website": "https://www.celestia.org/",
+    "link": "https://crypto.com/price/price/celestia"
+  },
+  {
+    "price": "$1.15 USD",
+    "volume": "$55.15 M",
+    "marketCap": "$1.61 B",
+    "totalSupply": "$1.61 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/bitget-token-new"
+  },
+  {
+    "price": "$9.76 USD",
+    "volume": "$6.9 M",
+    "marketCap": "$1.41 B",
+    "totalSupply": "$1.41 B",
+    "website": "https://whitebit.com/launchpad",
+    "link": "https://crypto.com/price/price/whitebit-token"
+  },
+  {
+    "price": "$0.3853 USD",
+    "volume": "$113.24 M",
+    "marketCap": "$1.4 B",
+    "totalSupply": "$1.4 B",
+    "website": "https://pyth.network/",
+    "link": "https://crypto.com/price/price/pyth-network"
+  },
+  {
+    "price": "$1.03 USD",
+    "volume": "$108.15 M",
+    "marketCap": "$1.34 B",
+    "totalSupply": "$1.34 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/starknet-token"
+  },
+  {
+    "price": "$0.4574 USD",
+    "volume": "$99.32 M",
+    "marketCap": "$1.34 B",
+    "totalSupply": "$1.34 B",
+    "website": "https://www.sei.io/",
+    "link": "https://crypto.com/price/price/sei"
+  },
+  {
+    "price": "$1.54 USD",
+    "volume": "$200.26 M",
+    "marketCap": "$1.31 B",
+    "totalSupply": "$1.31 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/fetch"
+  },
+  {
+    "price": "$87.79 USD",
+    "volume": "$145.61 M",
+    "marketCap": "$1.3 B",
+    "totalSupply": "$1.3 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/aave"
+  },
+  {
+    "price": "$0.1587 USD",
+    "volume": "$66.63 M",
+    "marketCap": "$1.3 B",
+    "totalSupply": "$1.3 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/algorand"
+  },
+  {
+    "price": "$0.9278 USD",
+    "volume": "$110.63 M",
+    "marketCap": "$1.25 B",
+    "totalSupply": "$1.25 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/jupiter-ag"
+  },
+  {
+    "price": "$0.02732 USD",
+    "volume": "$21.2 M",
+    "marketCap": "$1.17 B",
+    "totalSupply": "$1.17 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/spark-flare"
+  },
+  {
+    "price": "$0.7492 USD",
+    "volume": "$41.75 M",
+    "marketCap": "$1.13 B",
+    "totalSupply": "$1.13 B",
+    "website": "https://flow.com/",
+    "link": "https://crypto.com/price/price/flow"
+  },
+  {
+    "price": "$52.30 USD",
+    "volume": "$300.78 M",
+    "marketCap": "$1.1 B",
+    "totalSupply": "$1.1 B",
+    "website": "https://ordinals.com/",
+    "link": "https://crypto.com/price/price/ordinals"
+  },
+  {
+    "price": "$0.03449 USD",
+    "volume": "$132.99 M",
+    "marketCap": "$1.09 B",
+    "totalSupply": "$1.09 B",
+    "website": "https://gala.games/",
+    "link": "https://crypto.com/price/price/gala"
+  },
+  {
+    "price": "$0.7124 USD",
+    "volume": "$181.67 M",
+    "marketCap": "$1.08 B",
+    "totalSupply": "$1.08 B",
+    "website": "https://www.ethena.fi/",
+    "link": "https://crypto.com/price/price/ethena"
+  },
+  {
+    "price": "$0.02146 USD",
+    "volume": "$17.9 M",
+    "marketCap": "$1.06 B",
+    "totalSupply": "$1.06 B",
+    "website": "https://www.onbeam.com/",
+    "link": "https://crypto.com/price/price/onbeam"
+  },
+  {
+    "price": "$0.1181 USD",
+    "volume": "$122.8 M",
+    "marketCap": "$1.05 B",
+    "totalSupply": "$1.05 B",
+    "website": "https://www.chiliz.com/",
+    "link": "https://crypto.com/price/price/chiliz"
+  },
+  {
+    "price": "$84.86 USD",
+    "volume": "$17.72 M",
+    "marketCap": "$1.02 B",
+    "totalSupply": "$1.02 B",
+    "website": "https://quant.network/",
+    "link": "https://crypto.com/price/price/quant"
+  },
+  {
+    "price": "$50.84 USD",
+    "volume": "$43.21 M",
+    "marketCap": "$1 B",
+    "totalSupply": "$1 B",
+    "website": null,
+    "link": "https://crypto.com/price/price/bitcoin-sv"
+  },
+  {
+    "price": "$6.87 USD",
+    "volume": "$51.13 M",
+    "marketCap": "$1 B",
+    "totalSupply": "$1 B",
+    "website": "https://axieinfinity.com/",
+    "link": "https://crypto.com/price/price/axie-infinity"
+  },
+  {
+    "price": "$1.68 USD",
+    "volume": "$43.8 M",
+    "marketCap": "$994.23 M",
+    "totalSupply": "$994.23 M",
+    "website": "https://dydx.trade/",
+    "link": "https://crypto.com/price/price/dydx-chain"
+  },
+  {
+    "price": "$0.000001025 USD",
+    "volume": "$121.71 M",
+    "marketCap": "$992.59 M",
+    "totalSupply": "$992.59 M",
+    "website": "https://bt.io/",
+    "link": "https://crypto.com/price/price/bittorrent-new"
+  },
+  {
+    "price": "$10.11 USD",
+    "volume": "$1.33 M",
+    "marketCap": "$967.07 M",
+    "totalSupply": "$967.07 M",
+    "website": "https://www.kucoin.com/",
+    "link": "https://crypto.com/price/price/kucoin-token"
+  },
+  {
+    "price": "$3.95 USD",
+    "volume": "$79.06 M",
+    "marketCap": "$948.21 M",
+    "totalSupply": "$948.21 M",
+    "website": "https://akash.network/",
+    "link": "https://crypto.com/price/price/akash-network"
+  },
+  {
+    "price": "$0.525 USD",
+    "volume": "$122.23 M",
+    "marketCap": "$945 M",
+    "totalSupply": "$945 M",
+    "website": "https://wormhole.com/",
+    "link": "https://crypto.com/price/price/wormhole"
+  },
+  {
+    "price": "$11.81 USD",
+    "volume": "$361,558",
+    "marketCap": "$945.01 M",
+    "totalSupply": "$945.01 M",
+    "website": "https://ico.tokenize.exchange/",
+    "link": "https://crypto.com/price/price/tokenize-xchange"
+  },
+  {
+    "price": "$2.80 USD",
+    "volume": "$19.26 M",
+    "marketCap": "$921.81 M",
+    "totalSupply": "$921.81 M",
+    "website": "https://bridge.roninchain.com/",
+    "link": "https://crypto.com/price/price/ronin"
+  },
+  {
+    "price": "$12.91 USD",
+    "volume": "$39.75 M",
+    "marketCap": "$910.51 M",
+    "totalSupply": "$910.51 M",
+    "website": "https://neo.org/",
+    "link": "https://crypto.com/price/price/neo"
+  },
+  {
+    "price": "$3.81 USD",
+    "volume": "$274.15 M",
+    "marketCap": "$909.5 M",
+    "totalSupply": "$909.5 M",
+    "website": "https://worldcoin.org/",
+    "link": "https://crypto.com/price/price/worldcoin-org"
+  },
+  {
+    "price": "$33.29 USD",
+    "volume": "$22.75 M",
+    "marketCap": "$900.56 M",
+    "totalSupply": "$900.56 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/multiversx-egld"
+  },
+  {
+    "price": "$0.3939 USD",
+    "volume": "$193.76 M",
+    "marketCap": "$892.46 M",
+    "totalSupply": "$892.46 M",
+    "website": "https://www.sandbox.game/en/",
+    "link": "https://crypto.com/price/price/the-sandbox"
+  },
+  {
+    "price": "$336.60 USD",
+    "volume": "$20.71 M",
+    "marketCap": "$871.64 M",
+    "totalSupply": "$871.64 M",
+    "website": "https://gnosis.io/",
+    "link": "https://crypto.com/price/price/gnosis-gno"
+  },
+  {
+    "price": "$0.6652 USD",
+    "volume": "$89.2 M",
+    "marketCap": "$854.72 M",
+    "totalSupply": "$854.72 M",
+    "website": "https://singularitynet.io/",
+    "link": "https://crypto.com/price/price/singularitynet"
+  },
+  {
+    "price": "$0.1227 USD",
+    "volume": "$91.54 M",
+    "marketCap": "$823.6 M",
+    "totalSupply": "$823.6 M",
+    "website": "https://oasisprotocol.org/",
+    "link": "https://crypto.com/price/price/oasis-network"
+  },
+  {
+    "price": "$0.8157 USD",
+    "volume": "$34.79 M",
+    "marketCap": "$803.47 M",
+    "totalSupply": "$803.47 M",
+    "website": "https://www.tezos.com/",
+    "link": "https://crypto.com/price/price/tezos"
+  },
+  {
+    "price": "$1.39 USD",
+    "volume": "$5.85 M",
+    "marketCap": "$778.52 M",
+    "totalSupply": "$778.52 M",
+    "website": "http://nexo.io/",
+    "link": "https://crypto.com/price/price/nexo"
+  },
+  {
+    "price": "$0.0000393 USD",
+    "volume": "$12.35 M",
+    "marketCap": "$774.84 M",
+    "totalSupply": "$774.84 M",
+    "website": "https://e.cash/",
+    "link": "https://crypto.com/price/price/ecash"
+  },
+  {
+    "price": "$8.29 USD",
+    "volume": "$5.53 M",
+    "marketCap": "$773.17 M",
+    "totalSupply": "$773.17 M",
+    "website": "https://gatechain.io/",
+    "link": "https://crypto.com/price/price/gatetoken"
+  },
+  {
+    "price": "$0.6901 USD",
+    "volume": "$31.1 M",
+    "marketCap": "$771.91 M",
+    "totalSupply": "$771.91 M",
+    "website": "https://minaprotocol.com/",
+    "link": "https://crypto.com/price/price/mina"
+  },
+  {
+    "price": "$0.6836 USD",
+    "volume": "$232.76 M",
+    "marketCap": "$770.8 M",
+    "totalSupply": "$770.8 M",
+    "website": "https://eos.io/",
+    "link": "https://crypto.com/price/price/eos"
+  },
+  {
+    "price": "$4.96 USD",
+    "volume": "$57.56 M",
+    "marketCap": "$766.02 M",
+    "totalSupply": "$766.02 M",
+    "website": "https://pendle.finance/",
+    "link": "https://crypto.com/price/price/pendle"
+  },
+  {
+    "price": "$0.3939 USD",
+    "volume": "$158.8 M",
+    "marketCap": "$751.69 M",
+    "totalSupply": "$751.69 M",
+    "website": "https://decentraland.org/",
+    "link": "https://crypto.com/price/price/decentraland"
+  },
+  {
+    "price": "$2.25 USD",
+    "volume": "$31.34 M",
+    "marketCap": "$737.83 M",
+    "totalSupply": "$737.83 M",
+    "website": "https://www.synthetix.io/",
+    "link": "https://crypto.com/price/price/synthetix-network-token"
+  },
+  {
+    "price": "$0.9973 USD",
+    "volume": "$15.6 M",
+    "marketCap": "$731.62 M",
+    "totalSupply": "$731.62 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/usdd"
+  },
+  {
+    "price": "$0.1776 USD",
+    "volume": "$49.58 M",
+    "marketCap": "$718.89 M",
+    "totalSupply": "$718.89 M",
+    "website": "https://confluxnetwork.org/",
+    "link": "https://crypto.com/price/price/conflux-network"
+  },
+  {
+    "price": "$1.65 USD",
+    "volume": "$18.11 M",
+    "marketCap": "$704.65 M",
+    "totalSupply": "$704.65 M",
+    "website": "https://safe.global/",
+    "link": "https://crypto.com/price/price/safe1"
+  },
+  {
+    "price": "$0.6217 USD",
+    "volume": "$8.01 M",
+    "marketCap": "$683.82 M",
+    "totalSupply": "$683.82 M",
+    "website": "https://aioz.network/",
+    "link": "https://crypto.com/price/price/aioz-network"
+  },
+  {
+    "price": "$0.1847 USD",
+    "volume": "$18.79 M",
+    "marketCap": "$682.39 M",
+    "totalSupply": "$682.39 M",
+    "website": "https://www.klaytn.com/",
+    "link": "https://crypto.com/price/price/klaytn"
+  },
+  {
+    "price": "$2.21 USD",
+    "volume": "$18.01 M",
+    "marketCap": "$675.03 M",
+    "totalSupply": "$675.03 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/fasttoken"
+  },
+  {
+    "price": "$0.009808 USD",
+    "volume": "$198.03 M",
+    "marketCap": "$676.41 M",
+    "totalSupply": "$676.41 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/book-of-meme"
+  },
+  {
+    "price": "$2.47 USD",
+    "volume": "$44.03 M",
+    "marketCap": "$659.55 M",
+    "totalSupply": "$659.55 M",
+    "website": "https://pancakeswap.finance/",
+    "link": "https://crypto.com/price/price/pancakeswap"
+  },
+  {
+    "price": "$19.82 USD",
+    "volume": "$67.58 M",
+    "marketCap": "$648.57 M",
+    "totalSupply": "$648.57 M",
+    "website": "https://livepeer.org/",
+    "link": "https://crypto.com/price/price/livepeer"
+  },
+  {
+    "price": "$1.08 USD",
+    "volume": "$55.74 M",
+    "marketCap": "$654.53 M",
+    "totalSupply": "$654.53 M",
+    "website": "http://apecoin.com/",
+    "link": "https://crypto.com/price/price/apecoin-ape"
+  },
+  {
+    "price": "$0.9976 USD",
+    "volume": "$33.93 M",
+    "marketCap": "$647.86 M",
+    "totalSupply": "$647.86 M",
+    "website": "https://frax.finance/#welcome",
+    "link": "https://crypto.com/price/price/frax"
+  },
+  {
+    "price": "$0.1955 USD",
+    "volume": "$17.65 M",
+    "marketCap": "$642.45 M",
+    "totalSupply": "$642.45 M",
+    "website": "https://www.iota.org/",
+    "link": "https://crypto.com/price/price/iota"
+  },
+  {
+    "price": "$0.5898 USD",
+    "volume": "$23.58 M",
+    "marketCap": "$638.71 M",
+    "totalSupply": "$638.71 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/kava"
+  },
+  {
+    "price": "$0.01423 USD",
+    "volume": "$35.89 M",
+    "marketCap": "$630.83 M",
+    "totalSupply": "$630.83 M",
+    "website": "http://nervos.org/",
+    "link": "https://crypto.com/price/price/nervos-network"
+  },
+  {
+    "price": "$19.35 USD",
+    "volume": "$74.48 M",
+    "marketCap": "$609.93 M",
+    "totalSupply": "$609.93 M",
+    "website": "https://ens.domains/",
+    "link": "https://crypto.com/price/price/ethereum-name-service"
+  },
+  {
+    "price": "$0.0001008 USD",
+    "volume": "$29.88 M",
+    "marketCap": "$583.89 M",
+    "totalSupply": "$583.89 M",
+    "website": "https://terra.money/",
+    "link": "https://crypto.com/price/price/terra-lunc"
+  },
+  {
+    "price": "$0.6842 USD",
+    "volume": "$66.52 M",
+    "marketCap": "$574.99 M",
+    "totalSupply": "$574.99 M",
+    "website": "https://www.aevo.xyz/",
+    "link": "https://crypto.com/price/price/aevo"
+  },
+  {
+    "price": "$2,316.43 USD",
+    "volume": "$3.36 M",
+    "marketCap": "$571.06 M",
+    "totalSupply": "$571.06 M",
+    "website": "https://tether.to/",
+    "link": "https://crypto.com/price/price/tether-gold"
+  },
+  {
+    "price": "$0.3365 USD",
+    "volume": "$43.75 M",
+    "marketCap": "$560.34 M",
+    "totalSupply": "$560.34 M",
+    "website": "https://blur.io/",
+    "link": "https://crypto.com/price/price/blur-token"
+  },
+  {
+    "price": "$3.41 USD",
+    "volume": "$17.38 M",
+    "marketCap": "$548.62 M",
+    "totalSupply": "$548.62 M",
+    "website": "https://www.helium.com/",
+    "link": "https://crypto.com/price/price/helium"
+  },
+  {
+    "price": "$0.08315 USD",
+    "volume": "$9.92 M",
+    "marketCap": "$546.94 M",
+    "totalSupply": "$546.94 M",
+    "website": "https://www.thetatoken.org/",
+    "link": "https://crypto.com/price/price/theta-fuel"
+  },
+  {
+    "price": "$0.03529 USD",
+    "volume": "$6.16 M",
+    "marketCap": "$525.94 M",
+    "totalSupply": "$525.94 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/xinfin"
+  },
+  {
+    "price": "$29.83 USD",
+    "volume": "$3.03 M",
+    "marketCap": "$522.43 M",
+    "totalSupply": "$522.43 M",
+    "website": "https://bitcoingold.org/",
+    "link": "https://crypto.com/price/price/bitcoin-gold"
+  },
+  {
+    "price": "$0.7451 USD",
+    "volume": "$21.27 M",
+    "marketCap": "$511.61 M",
+    "totalSupply": "$511.61 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/axelar"
+  },
+  {
+    "price": "$0.9979 USD",
+    "volume": "$52.45 M",
+    "marketCap": "$495.18 M",
+    "totalSupply": "$495.18 M",
+    "website": "https://www.trueusd.com/",
+    "link": "https://crypto.com/price/price/trueusd"
+  },
+  {
+    "price": "$0.2618 USD",
+    "volume": "$12.29 M",
+    "marketCap": "$495.58 M",
+    "totalSupply": "$495.58 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/wootrade"
+  },
+  {
+    "price": "$0.4071 USD",
+    "volume": "$30.19 M",
+    "marketCap": "$485.44 M",
+    "totalSupply": "$485.44 M",
+    "website": "https://1inch.io/",
+    "link": "https://crypto.com/price/price/1inch"
+  },
+  {
+    "price": "$0.08419 USD",
+    "volume": "$32.5 M",
+    "marketCap": "$477.26 M",
+    "totalSupply": "$477.26 M",
+    "website": "https://astar.network/",
+    "link": "https://crypto.com/price/price/astar"
+  },
+  {
+    "price": "$0.001389 USD",
+    "volume": "$418,017",
+    "marketCap": "$477.04 M",
+    "totalSupply": "$477.04 M",
+    "website": "https://corgiai.xyz/",
+    "link": "https://crypto.com/price/price/corgiai"
+  },
+  {
+    "price": "$0.05001 USD",
+    "volume": "$16.31 M",
+    "marketCap": "$472.21 M",
+    "totalSupply": "$472.21 M",
+    "website": "https://www.iotex.io/",
+    "link": "https://crypto.com/price/price/iotex"
+  },
+  {
+    "price": "$1.12 USD",
+    "volume": "$17.27 M",
+    "marketCap": "$466.96 M",
+    "totalSupply": "$466.96 M",
+    "website": "https://trustwallet.com/",
+    "link": "https://crypto.com/price/price/trust-wallet-token"
+  },
+  {
+    "price": "$12.81 USD",
+    "volume": "$11.55 M",
+    "marketCap": "$458.13 M",
+    "totalSupply": "$458.13 M",
+    "website": "https://echelon.io/",
+    "link": "https://crypto.com/price/price/echelon-prime"
+  },
+  {
+    "price": "$0.02265 USD",
+    "volume": "$62.82 M",
+    "marketCap": "$443.25 M",
+    "totalSupply": "$443.25 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/memecoin"
+  },
+  {
+    "price": "$52.24 USD",
+    "volume": "$40.65 M",
+    "marketCap": "$436.63 M",
+    "totalSupply": "$436.63 M",
+    "website": "https://compound.finance/governance/comp",
+    "link": "https://crypto.com/price/price/compound"
+  },
+  {
+    "price": "$0.0000004362 USD",
+    "volume": "$124.87 M",
+    "marketCap": "$436.17 M",
+    "totalSupply": "$436.17 M",
+    "website": "http://apenft.org/",
+    "link": "https://crypto.com/price/price/apenft"
+  },
+  {
+    "price": "$0.3515 USD",
+    "volume": "$72.59 M",
+    "marketCap": "$435.74 M",
+    "totalSupply": "$435.74 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/curve-dao-token"
+  },
+  {
+    "price": "$0.8852 USD",
+    "volume": "$24.22 M",
+    "marketCap": "$430.35 M",
+    "totalSupply": "$430.35 M",
+    "website": "https://aerodrome.finance/",
+    "link": "https://crypto.com/price/price/aerodrome-finance"
+  },
+  {
+    "price": "$2,312.65 USD",
+    "volume": "$7.64 M",
+    "marketCap": "$429.81 M",
+    "totalSupply": "$429.81 M",
+    "website": "https://www.paxos.com/paxgold/",
+    "link": "https://crypto.com/price/price/pax-gold"
+  },
+  {
+    "price": "$0.5033 USD",
+    "volume": "$180.95 M",
+    "marketCap": "$429.47 M",
+    "totalSupply": "$429.47 M",
+    "website": "https://polymesh.network/",
+    "link": "https://crypto.com/price/price/polymesh"
+  },
+  {
+    "price": "$3.69 USD",
+    "volume": "$117.7 M",
+    "marketCap": "$425.42 M",
+    "totalSupply": "$425.42 M",
+    "website": "https://www.ether.fi/",
+    "link": "https://crypto.com/price/price/ether-fi-ethfi"
+  },
+  {
+    "price": "$0.4202 USD",
+    "volume": "$12.45 M",
+    "marketCap": "$420.15 M",
+    "totalSupply": "$420.15 M",
+    "website": "https://golem.network/",
+    "link": "https://crypto.com/price/price/golem-network-tokens"
+  },
+  {
+    "price": "$0.6273 USD",
+    "volume": "$22.67 M",
+    "marketCap": "$417.32 M",
+    "totalSupply": "$417.32 M",
+    "website": "https://osmosis.zone/",
+    "link": "https://crypto.com/price/price/osmosis"
+  },
+  {
+    "price": "$0.5461 USD",
+    "volume": "$35.96 M",
+    "marketCap": "$417.61 M",
+    "totalSupply": "$417.61 M",
+    "website": "https://terra.money/",
+    "link": "https://crypto.com/price/price/terra-luna"
+  },
+  {
+    "price": "$2.04 USD",
+    "volume": "$55.53 M",
+    "marketCap": "$417.13 M",
+    "totalSupply": "$417.13 M",
+    "website": "https://www.arkhamintelligence.com/",
+    "link": "https://crypto.com/price/price/arkham"
+  },
+  {
+    "price": "$0.000001057 USD",
+    "volume": "$34.66 M",
+    "marketCap": "$412.67 M",
+    "totalSupply": "$412.67 M",
+    "website": "https://www.mogcoin.xyz/",
+    "link": "https://crypto.com/price/price/mog-coin"
+  },
+  {
+    "price": "$0.8455 USD",
+    "volume": "$8.81 M",
+    "marketCap": "$412.43 M",
+    "totalSupply": "$412.43 M",
+    "website": "https://superfarm.com/#/",
+    "link": "https://crypto.com/price/price/superfarm"
+  },
+  {
+    "price": "$1.68 USD",
+    "volume": "$25.59 M",
+    "marketCap": "$413.62 M",
+    "totalSupply": "$413.62 M",
+    "website": "https://dydx.community/",
+    "link": "https://crypto.com/price/price/dydx"
+  },
+  {
+    "price": "$0.9979 USD",
+    "volume": "$23.3 M",
+    "marketCap": "$398.69 M",
+    "totalSupply": "$398.69 M",
+    "website": "https://www.paypal.com/pyusd",
+    "link": "https://crypto.com/price/price/paypal-usd"
+  },
+  {
+    "price": "$0.1898 USD",
+    "volume": "$29.77 M",
+    "marketCap": "$399.19 M",
+    "totalSupply": "$399.19 M",
+    "website": "https://www.stepn.com/",
+    "link": "https://crypto.com/price/price/green-metaverse-token"
+  },
+  {
+    "price": "$4.05 USD",
+    "volume": "$972.13 M",
+    "marketCap": "$385.05 M",
+    "totalSupply": "$385.05 M",
+    "website": "https://io.net/",
+    "link": "https://crypto.com/price/price/io-net"
+  },
+  {
+    "price": "$1.09 USD",
+    "volume": "$5.96 M",
+    "marketCap": "$393.29 M",
+    "totalSupply": "$393.29 M",
+    "website": "https://wemixnetwork.com/",
+    "link": "https://crypto.com/price/price/wemix"
+  },
+  {
+    "price": "$0.5417 USD",
+    "volume": "$33.42 M",
+    "marketCap": "$391.53 M",
+    "totalSupply": "$391.53 M",
+    "website": "https://biconomy.io/",
+    "link": "https://crypto.com/price/price/biconomy"
+  },
+  {
+    "price": "$0.03716 USD",
+    "volume": "$2.72 M",
+    "marketCap": "$389 M",
+    "totalSupply": "$389 M",
+    "website": "https://www.radixdlt.com/",
+    "link": "https://crypto.com/price/price/radix-protocol"
+  },
+  {
+    "price": "$1.48 USD",
+    "volume": "$12.85 M",
+    "marketCap": "$387.93 M",
+    "totalSupply": "$387.93 M",
+    "website": "https://raydium.io/#/",
+    "link": "https://crypto.com/price/price/raydium"
+  },
+  {
+    "price": "$0.6814 USD",
+    "volume": "$27.51 M",
+    "marketCap": "$387.27 M",
+    "totalSupply": "$387.27 M",
+    "website": "https://oceanprotocol.com/",
+    "link": "https://crypto.com/price/price/ocean-protocol"
+  },
+  {
+    "price": "$2.21 USD",
+    "volume": "$24.48 M",
+    "marketCap": "$387.83 M",
+    "totalSupply": "$387.83 M",
+    "website": "https://dymension.xyz/",
+    "link": "https://crypto.com/price/price/dymension"
+  },
+  {
+    "price": "$18.84 USD",
+    "volume": "$4.56 M",
+    "marketCap": "$385.21 M",
+    "totalSupply": "$385.21 M",
+    "website": "https://www.rocketpool.net/",
+    "link": "https://crypto.com/price/price/rocket-pool"
+  },
+  {
+    "price": "$8.83 USD",
+    "volume": "$6.08 M",
+    "marketCap": "$381.39 M",
+    "totalSupply": "$381.39 M",
+    "website": "https://aragon.org/",
+    "link": "https://crypto.com/price/price/aragon"
+  },
+  {
+    "price": "$3.84 USD",
+    "volume": "$36.99 M",
+    "marketCap": "$377.37 M",
+    "totalSupply": "$377.37 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/mx-token"
+  },
+  {
+    "price": "$0.02021 USD",
+    "volume": "$18.53 M",
+    "marketCap": "$373.84 M",
+    "totalSupply": "$373.84 M",
+    "website": "https://www.zilliqa.com/",
+    "link": "https://crypto.com/price/price/zilliqa"
+  },
+  {
+    "price": "$0.6914 USD",
+    "volume": "$23.54 M",
+    "marketCap": "$373.01 M",
+    "totalSupply": "$373.01 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/celo"
+  },
+  {
+    "price": "$22.76 USD",
+    "volume": "$98.56 M",
+    "marketCap": "$371.71 M",
+    "totalSupply": "$371.71 M",
+    "website": "https://z.cash/",
+    "link": "https://crypto.com/price/price/zcash"
+  },
+  {
+    "price": "$0.03704 USD",
+    "volume": "$13.47 M",
+    "marketCap": "$370.45 M",
+    "totalSupply": "$370.45 M",
+    "website": "https://www.ankr.com/",
+    "link": "https://crypto.com/price/price/ankr"
+  },
+  {
+    "price": "$0.002114 USD",
+    "volume": "$12.52 M",
+    "marketCap": "$366.78 M",
+    "totalSupply": "$366.78 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/holo"
+  },
+  {
+    "price": "$0.4306 USD",
+    "volume": "$19.9 M",
+    "marketCap": "$364.89 M",
+    "totalSupply": "$364.89 M",
+    "website": "https://0x.org/",
+    "link": "https://crypto.com/price/price/0x"
+  },
+  {
+    "price": "$36.06 USD",
+    "volume": "$26.51 M",
+    "marketCap": "$360.58 M",
+    "totalSupply": "$360.58 M",
+    "website": "https://ssv.network/",
+    "link": "https://crypto.com/price/price/ssv-network"
+  },
+  {
+    "price": "$2.91 USD",
+    "volume": "$68.5 M",
+    "marketCap": "$356.45 M",
+    "totalSupply": "$356.45 M",
+    "website": "https://www.jito.network/",
+    "link": "https://crypto.com/price/price/jito"
+  },
+  {
+    "price": "$0.7586 USD",
+    "volume": "$6.59 M",
+    "marketCap": "$350.84 M",
+    "totalSupply": "$350.84 M",
+    "website": "https://www.safepal.io/",
+    "link": "https://crypto.com/price/price/safepal"
+  },
+  {
+    "price": "$79.73 USD",
+    "volume": "$11.56 M",
+    "marketCap": "$351.25 M",
+    "totalSupply": "$351.25 M",
+    "website": "https://illuvium.io/",
+    "link": "https://crypto.com/price/price/illuvium"
+  },
+  {
+    "price": "$0.2353 USD",
+    "volume": "$24.48 M",
+    "marketCap": "$345.66 M",
+    "totalSupply": "$345.66 M",
+    "website": "https://enjin.io/",
+    "link": "https://crypto.com/price/price/enjin-coin"
+  },
+  {
+    "price": "$0.006762 USD",
+    "volume": "$27.14 M",
+    "marketCap": "$342.16 M",
+    "totalSupply": "$342.16 M",
+    "website": "https://reserve.org/",
+    "link": "https://crypto.com/price/price/reserve-rights"
+  },
+  {
+    "price": "$0.005313 USD",
+    "volume": "$63.96 M",
+    "marketCap": "$338.3 M",
+    "totalSupply": "$338.3 M",
+    "website": "https://sites.google.com/view/turbotoad",
+    "link": "https://crypto.com/price/price/turbo"
+  },
+  {
+    "price": "$59.75 USD",
+    "volume": "$14.05 M",
+    "marketCap": "$339.73 M",
+    "totalSupply": "$339.73 M",
+    "website": "https://www.metis.io/",
+    "link": "https://crypto.com/price/price/metisdao"
+  },
+  {
+    "price": "$2.93 USD",
+    "volume": "$14.49 M",
+    "marketCap": "$338.17 M",
+    "totalSupply": "$338.17 M",
+    "website": "https://www.galxe.com/",
+    "link": "https://crypto.com/price/price/galxe"
+  },
+  {
+    "price": "$3.13 USD",
+    "volume": "$16.86 M",
+    "marketCap": "$337.66 M",
+    "totalSupply": "$337.66 M",
+    "website": "https://ethereumpow.org/",
+    "link": "https://crypto.com/price/price/ethereum-pow"
+  },
+  {
+    "price": "$0.0241 USD",
+    "volume": "$21.52 M",
+    "marketCap": "$335.94 M",
+    "totalSupply": "$335.94 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/ravencoin"
+  },
+  {
+    "price": "$34.60 USD",
+    "volume": "$18.42 M",
+    "marketCap": "$329.74 M",
+    "totalSupply": "$329.74 M",
+    "website": "https://gmx.io/",
+    "link": "https://crypto.com/price/price/gmx"
+  },
+  {
+    "price": "$0.06126 USD",
+    "volume": "$25.6 M",
+    "marketCap": "$329.85 M",
+    "totalSupply": "$329.85 M",
+    "website": "https://skale.space/",
+    "link": "https://crypto.com/price/price/skale-network"
+  },
+  {
+    "price": "$0.005645 USD",
+    "volume": "$4.78 M",
+    "marketCap": "$324.46 M",
+    "totalSupply": "$324.46 M",
+    "website": "https://sia.tech/",
+    "link": "https://crypto.com/price/price/siacoin"
+  },
+  {
+    "price": "$0.2163 USD",
+    "volume": "$27.52 M",
+    "marketCap": "$323.3 M",
+    "totalSupply": "$323.3 M",
+    "website": "https://basicattentiontoken.org/",
+    "link": "https://crypto.com/price/price/basic-attention-token"
+  },
+  {
+    "price": "$0.7807 USD",
+    "volume": "$2.16 M",
+    "marketCap": "$317.69 M",
+    "totalSupply": "$317.69 M",
+    "website": "https://origintrail.io/",
+    "link": "https://crypto.com/price/price/origintrail"
+  },
+  {
+    "price": "$3.92 USD",
+    "volume": "$19.01 M",
+    "marketCap": "$313.13 M",
+    "totalSupply": "$313.13 M",
+    "website": "https://frax.finance/#welcome",
+    "link": "https://crypto.com/price/price/frax-share"
+  },
+  {
+    "price": "$2.97 USD",
+    "volume": "$35.98 M",
+    "marketCap": "$311.94 M",
+    "totalSupply": "$311.94 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/qtum"
+  },
+  {
+    "price": "$0.4483 USD",
+    "volume": "$12.9 M",
+    "marketCap": "$327.64 M",
+    "totalSupply": "$327.64 M",
+    "website": "http://aelf.io/",
+    "link": "https://crypto.com/price/price/aelf"
+  },
+  {
+    "price": "$0.02525 USD",
+    "volume": "$10.08 M",
+    "marketCap": "$304.97 M",
+    "totalSupply": "$304.97 M",
+    "website": "https://casper.network/",
+    "link": "https://crypto.com/price/price/casper"
+  },
+  {
+    "price": "$1.10 USD",
+    "volume": "$65.9 M",
+    "marketCap": "$302.11 M",
+    "totalSupply": "$302.11 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/zetachain"
+  },
+  {
+    "price": "$25.47 USD",
+    "volume": "$35.88 M",
+    "marketCap": "$301.41 M",
+    "totalSupply": "$301.41 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/dash"
+  },
+  {
+    "price": "$0.8588 USD",
+    "volume": "$19.48 M",
+    "marketCap": "$299.01 M",
+    "totalSupply": "$299.01 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/zel"
+  },
+  {
+    "price": "$0.2667 USD",
+    "volume": "$50.28 M",
+    "marketCap": "$293.35 M",
+    "totalSupply": "$293.35 M",
+    "website": "https://altlayer.io/",
+    "link": "https://crypto.com/price/price/altlayer"
+  },
+  {
+    "price": "$0.7961 USD",
+    "volume": "$50.43 M",
+    "marketCap": "$290.95 M",
+    "totalSupply": "$290.95 M",
+    "website": "https://yieldguild.io/",
+    "link": "https://crypto.com/price/price/yield-guild-games"
+  },
+  {
+    "price": "$0.02928 USD",
+    "volume": "$113.99 M",
+    "marketCap": "$289.91 M",
+    "totalSupply": "$289.91 M",
+    "website": "https://just.network/#/",
+    "link": "https://crypto.com/price/price/just"
+  },
+  {
+    "price": "$18.00 USD",
+    "volume": "$2.32 M",
+    "marketCap": "$290.2 M",
+    "totalSupply": "$290.2 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/decred"
+  },
+  {
+    "price": "$3.01 USD",
+    "volume": "$39.57 M",
+    "marketCap": "$288.76 M",
+    "totalSupply": "$288.76 M",
+    "website": "https://www.mask.io/",
+    "link": "https://crypto.com/price/price/mask-network"
+  },
+  {
+    "price": "$27.45 USD",
+    "volume": "$10.03 M",
+    "marketCap": "$289.26 M",
+    "totalSupply": "$289.26 M",
+    "website": "https://www.chia.net/",
+    "link": "https://crypto.com/price/price/chia-network"
+  },
+  {
+    "price": "$0.3701 USD",
+    "volume": "$50.9 M",
+    "marketCap": "$285.37 M",
+    "totalSupply": "$285.37 M",
+    "website": "https://www.pixels.xyz/",
+    "link": "https://crypto.com/price/price/pixels"
+  },
+  {
+    "price": "$0.029 USD",
+    "volume": "$8.59 M",
+    "marketCap": "$281.7 M",
+    "totalSupply": "$281.7 M",
+    "website": null,
+    "link": "https://crypto.com/price/price/threshold"
+  },
+  {
+    "price": "$0.2025 USD",
+    "volume": "$19.85 M",
+    "marketCap": "$276.74 M",
+    "totalSupply": "$276.74 M",
+    "website": "https://loopring.org/",
+    "link": "https://crypto.com/price/price/loopring"
+  },
+  {
+    "price": "$0.5573 USD",
+    "volume": "$1.45 M",
+    "marketCap": "$275.19 M",
+    "totalSupply": "$275.19 M",
+    "website": "https://centrifuge.io/",
+    "link": "https://crypto.com/price/price/centrifuge"
+  },
+  {
+    "price": "$0.4984 USD",
+    "volume": "$426,154",
+    "marketCap": "$268.24 M",
+    "totalSupply": "$268.24 M",
+    "website": "https://fei.money/",
+    "link": "https://crypto.com/price/price/tribe"
+  }
+]

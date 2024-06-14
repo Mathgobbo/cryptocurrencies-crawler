@@ -1,5 +1,4 @@
 import { writeFile } from "fs/promises";
-import path from "path";
 
 export const sleep = async (ms = 1000) => {
   await new Promise((resolve) => {
@@ -10,5 +9,11 @@ export const sleep = async (ms = 1000) => {
 };
 
 export const writeJsonToFile = async (data, filename) => {
-  await writeFile("./datasets/" + filename, JSON.stringify(data));
+  await writeFile("./datasets/" + filename, JSON.stringify(data), (err) => {
+    if (err) {
+      console.error("Error on write:", err);
+      return;
+    }
+    console.log("Success!");
+  });
 };
